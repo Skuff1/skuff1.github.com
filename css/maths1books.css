@@ -1,0 +1,146 @@
+.header
+{
+	text-align:center;
+	background-image: url("image/fon.jpg");
+	text-align: top;
+	font: 22pt sans-serif;
+	height:2500px;
+	width:1855px;
+	padding:20px;
+
+}
+.content
+{
+	background-image: url("image/fon2.jpg");
+	height:2000px;
+	width:1160px;
+	margin-left:350px;
+	padding:20px;
+
+}
+.book1
+{
+	text-align:left;
+	font:15pt sans-serif;
+	width:100px;
+	float:left;
+}
+.book1text
+{
+	text-align:left;
+	font:10pt sans-serif;
+	width:480px;
+	float:left;
+	margin-left:10px;
+}
+.book1 a
+{
+	text-decoration:none;
+	color:black;
+	text-align:auto;
+}
+.book1 img
+{
+	width:100px;
+}
+.book1text p
+{
+	margin-top:0px;
+	font-weight: 600
+}
+.book2
+{
+	text-align:left;
+	font:15pt sans-serif;
+	width:100px;
+	float:left;
+}
+.book2text
+{
+	text-align:left;
+	font:10pt sans-serif;
+	width:400px;
+	float:left;
+	margin-left:10px;
+
+}
+.book2text p
+{
+	margin-top:0px;
+	font-weight: 600
+}
+.book2 a
+{
+	text-decoration:none;
+	color:black;
+	text-align:auto;
+}
+.book2 img
+{
+	width:100px;
+}
+.book3
+{
+	text-align:left;
+	font:15pt sans-serif;
+	width:100px;
+	float:left;
+	margin-top:10px;
+}
+.book3text
+{
+	text-align:left;
+	font:10pt sans-serif;
+	width:480px;
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+}
+.book3text p
+{
+	font-weight: 600;
+	margin-top:0px;
+}
+.book3 a
+{
+	text-decoration:none;
+	color:black;
+	text-align:auto;
+}
+.book3 img
+{
+	width:100px;
+}
+.book4
+{
+	text-align:left;
+	font:15pt sans-serif;
+	width:100px;
+	float:left;
+	margin-top:10px;
+}
+.book4text
+{
+	text-align:left;
+	font:10pt sans-serif;
+	width:400px;
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+
+}
+.book4text p
+{
+	margin-top:0px;
+	font-weight: 600
+}
+.book4 a
+{
+	text-decoration:none;
+	color:black;
+	text-align:auto;
+}
+.book4 img
+{
+	width:100px;
+}

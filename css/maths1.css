@@ -1,0 +1,112 @@
+.header
+{
+	text-align:center;
+	background-image: url("image/fon.jpg");
+	font: 22pt sans-serif;
+	height:5000px;
+	width:1855px;
+	padding:20px;
+
+}
+.content
+{
+	background-image: url("image/fon2.jpg");
+	height:4000px;
+	width:1000px;
+	margin-left:450px;
+	padding:20px;
+	font:22pt sans-serif;
+
+}
+.book1
+{
+	text-align:left;
+	font:15pt sans-serif;
+	text-align:top;
+	margin-left:10px;
+	float:left;
+}
+
+.button
+{
+width:1000px;
+float:left;
+}
+.button p
+{
+	width:50px;
+	height:35px;
+	background-color:blue;
+	outline:3px solid black;
+}
+.button a
+{
+	text-decoration:none;
+	color:white;
+	text-align:center;
+}
+.button ul li
+{
+	display:inline;
+	list-style:none;
+	float:left;
+	padding-right:50px;
+}
+.button th, td
+{
+	text-align:center;
+	float:left;
+}
+.button
+{
+width:1000px;
+float:left;
+}
+.button2 p
+{
+	width:50px;
+	height:35px;
+	background-color: blue;
+	outline:3px solid black;
+}
+.button2 a
+{
+	text-decoration:none;
+	color:white;
+	text-align:center;
+}
+.button2 ul li
+{
+	display:inline;
+	list-style:none;
+	float:left;
+	padding-right:50px;
+}
+.button2 th, td
+{
+	text-align:center;
+	float:left;
+}
+.book1text
+{
+	font:10pt sans-serif;
+	width:760px;
+	float:right;
+	margin-left:10px;
+	text-align:left;
+}
+.gdz
+{
+ float:center;
+ margin-left:100px;
+}
+.gdz img
+{
+	padding-top:50px;
+}
+.gdz p
+{
+	text-align:left;
+	margin-left:350px;
+	font:29pt black sans-serif;
+}
